@@ -39,6 +39,7 @@ Curated list of awesome EOS.
   - United States
     - [EOS New York](https://www.meetup.com/EOS-New-York)
     - [EOS Denver](https://www.meetup.com/EOSDenver/)
+    - [EOS Dallas](https://www.meetup.com/EOSDallas/)
 - Asia
   - South Korea
     - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
